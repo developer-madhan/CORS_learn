@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axois": "^0.0.1-security",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "mysql2": "^3.9.2"
+  }
 }
